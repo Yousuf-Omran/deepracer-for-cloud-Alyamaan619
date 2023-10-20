@@ -7,10 +7,13 @@ def reward_function(params):
     
     speed = params['speed']
     steering_angle = abs(params['steering_angle'])
-    
+
+    # Combine reward equation
     reward = 5*speed**5 + (2*exp(-0.2*steering_angle))
+    # Set the worst reward value
     zero_val = 3e-3
-    
+
+    # Set bonus/punishment values
     if left == True:
         if wp in (list(range(67,99))):
            reward= zero_val
@@ -22,5 +25,5 @@ def reward_function(params):
         if wp in (list(range(67,99))):
            reward *= 5
 
-    #Always return a float value
+    # Always return a float value
     return float(reward)
