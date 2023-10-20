@@ -2,7 +2,7 @@
 ![Logo](https://images.fineartamerica.com/images/artworkimages/mediumlarge/3/stand-with-palestine-tinh-tran-le-thanh.jpg)
 
 
-# DeepRacer For Cloud 🚘 
+# DeepRacer-For-Cloud-Alyamaan619 🚘 
 
 "DeepRacer For Cloud" is an impressive environment dimension instead of training the AWS DeepRacer robot car (https://aws.amazon.com/deepracer) on the console by training on either a cloud virtual machine or a local computer.
 
