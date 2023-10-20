@@ -96,7 +96,9 @@ A brief video of the learning journey will be included soon...
 
 #### If you have any questions or feedback don't hesitate and reach out to me via email: yousufomran619@gmail.com
 
-#### Or via my LinkedIn account: [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousuf-omran-5b2884243/)
+#### Or via my LinkedIn account:
+
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/yousuf-omran-5b2884243/)
 
 
 
