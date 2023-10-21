@@ -31,8 +31,7 @@ Activate and run the environment
   . bin/activate.sh run.env
 ```
 
-Upload the reward function code and the other related filed located in custom files
-
+Upload the reward function code and the other related files located in custom files
 ```bash
   dr-upload-custom-files
 ```
@@ -59,31 +58,31 @@ Evaluate your model
 ```bash
   dr-start-evaluation
 ```
-I recommend you to visit and use "deepracer-analysis" repository (https://github.com/aws-deepracer-community/deepracer-analysis) to evaluate your model performance.
+I recommend you visit and use the "deepracer-analysis" repository (https://github.com/aws-deepracer-community/deepracer-analysis) to evaluate your model performance.
 
 ## Contribution ✔️  
 
-- Using two main inputs speed and steering angle to impact on the reward.
+- Using two main inputs speed and steering angle to impact the reward.
 - Speed: speed input ranges from 0.5 ~ 1 m/s, to gain highly reward the fifth degree equation (x^5) had been used where x is the speed input.
 - Steering angle: it ranges from -30 ~ 30 degrees, using a proper exponential equation (e^-y) to reduce the reward of steering angle increment, where y is the steering angle input.
 
 - Combining two inputs by summing to get the target reward
 - Giving a bonus to the car if it stays on the left side of a track.
-- Giving a punishment to the car if it dosn't drive on the right side of a track at specific S-shaped curve located on the track.
+- Giving a punishment to the car if it doesn't drive on the right side of a track at a specific S-shaped curve located on the track.
 
-#### You can see inputs visualization by openning the "2D inputs.ggb" and "3D inputs combination.ggb" files located above on the Geogebra site (https://www.geogebra.org/calculator).
+#### You can see inputs visualization by opening the "2D inputs.ggb" and "3D inputs combination.ggb" files located above on the Geogebra site (https://www.geogebra.org/calculator).
 
-#### You can reach my own code by clicking on "custom_files" then "reward_function.py".
+#### You can reach my code by clicking on "custom_files" then "reward_function.py".
 
 
 
 
 ## Limitation 💢
-- The hyperparameters at the "AWS DeepRacer Student League" are restricted and identefied to specific values unlike that exist in "AWS DeepRacer" 
-- You should have a powerful computer hardware to run smoothly on.
+- The hyperparameters at the "AWS DeepRacer Student League" are restricted and identified to specific values unlike that exist in "AWS DeepRacer" 
+- You should have powerful computer hardware to run smoothly on.
 
-- You should have some knoledge on Linux commands.
-- Sometimes the you need to create your own server to mitigate errors.
+- You should have some knowledge of Linux commands.
+- Sometimes you need to create your server to mitigate errors.
 
 ## Video 🎬 
 
