@@ -88,8 +88,16 @@ I recommend you visit and use the "deepracer-analysis" repository (https://githu
 
 A brief video of the learning journey will be included soon...
 ## Achievement 💯 
+On October 22, 2023, I stand as:
+- 1st place in Egypt,
+ 
+- 3rd place in the Middle East and Africa,
 
-......................
+- 39th place in the World.
+  
+![image](https://github.com/Yousuf-Omran/deepracer-for-cloud-Alyamaan619/assets/134161427/359c2f0c-eeae-4a59-b94b-0c02d5b562e1)
+
+This race track will be closed in March 2024, so there is a lot of time to join the competition and upscale your skills in reinforcement learning...
 
 ## Links 🔗 
 
