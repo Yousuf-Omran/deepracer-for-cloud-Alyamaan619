@@ -11,7 +11,7 @@ Using the Windows sub-system Linux (WSL), this repository was trained locally on
 
 Before the following steps, you must install "Docker desktop" for images to be generated and "Ubuntu 20.04" CLI for running on, use the video as a guide to install these requirements (https://youtu.be/g-bVnm-6poU?si=Xdqa7mcel1Jdrmj-).
 
-                                                 ------ After that ------ 
+                                          ------ After that ------ 
 
 Clone the project
 
