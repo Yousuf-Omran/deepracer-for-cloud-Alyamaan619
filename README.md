@@ -95,9 +95,9 @@ On October 23, 2023, I stand as:
  
 - 3rd place in the Middle East and Africa,
 
-- 39th place in the World.
+- 40th place in the World.
   
-![image](https://github.com/Yousuf-Omran/deepracer-for-cloud-Alyamaan619/assets/134161427/89b03883-52f4-43b4-9fbb-7e96de847b78)
+![image](https://github.com/Yousuf-Omran/deepracer-for-cloud-Alyamaan619/assets/134161427/f3506a2d-471a-4933-989a-741059978bef)
 
 
 This race track will be closed in March 2024, so there is a lot of time to join the competition and upscale your skills in reinforcement learning...
