@@ -95,7 +95,7 @@ On October 23, 2023, I stand as:
  
 - 3rd place in the Middle East and Africa,
 
-- 40th place in the World.
+- 40th place in the World (top 5%).
   
 ![image](https://github.com/Yousuf-Omran/deepracer-for-cloud-Alyamaan619/assets/134161427/f3506a2d-471a-4933-989a-741059978bef)
 
