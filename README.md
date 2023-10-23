@@ -88,7 +88,7 @@ I recommend you visit and use the "deepracer-analysis" repository (https://githu
 
 A brief video of the learning journey will be included soon...
 ## Achievement 💯 
-On October 22, 2023, I stand as:
+On October 23, 2023, I stand as:
 - 1st place in Egypt,
  
 - 3rd place in the Middle East and Africa,
