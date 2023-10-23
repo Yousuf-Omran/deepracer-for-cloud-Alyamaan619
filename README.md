@@ -68,7 +68,7 @@ I recommend you visit and use the "deepracer-analysis" repository (https://githu
 
 - Combining two inputs by summing to get the target reward
 - Giving a bonus to the car if it stays on the left side of a track.
-- Giving a punishment to the car if it doesn't drive on the right side of a track at a specific S-shaped curve located on the track.
+- Punishing the car if it doesn't drive on the right side of a track at a specific S-shaped curve in 67~99 waypoints.
 
 #### You can see inputs visualization by opening the "2D inputs.ggb" and "3D inputs combination.ggb" files located above on the Geogebra site (https://www.geogebra.org/calculator).
 
