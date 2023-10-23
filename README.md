@@ -95,7 +95,8 @@ On October 22, 2023, I stand as:
 
 - 39th place in the World.
   
-![image](https://github.com/Yousuf-Omran/deepracer-for-cloud-Alyamaan619/assets/134161427/359c2f0c-eeae-4a59-b94b-0c02d5b562e1)
+![image](https://github.com/Yousuf-Omran/deepracer-for-cloud-Alyamaan619/assets/134161427/89b03883-52f4-43b4-9fbb-7e96de847b78)
+
 
 This race track will be closed in March 2024, so there is a lot of time to join the competition and upscale your skills in reinforcement learning...
 
