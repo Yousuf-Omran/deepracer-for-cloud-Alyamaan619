@@ -86,7 +86,9 @@ I recommend you visit and use the "deepracer-analysis" repository (https://githu
 
 ## Video 🎬 
 
-A brief video of the learning journey will be included soon...
+You can watch my steps in training and evaluating from the beginning till the end in the video on my drive link below: 
+
+https://drive.google.com/drive/folders/1Rbuz_sc2Bda4KIW4eH2rQoFe5X3zYs9a?usp=sharing
 ## Achievement 💯 
 On October 23, 2023, I stand as:
 - 1st place in Egypt,
