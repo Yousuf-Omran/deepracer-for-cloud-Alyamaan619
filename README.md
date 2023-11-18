@@ -90,14 +90,14 @@ You can watch my steps in training and evaluating from the beginning till the en
 
 https://drive.google.com/drive/folders/1Rbuz_sc2Bda4KIW4eH2rQoFe5X3zYs9a?usp=sharing
 ## Achievement 💯 
-On October 23, 2023, I stand as:
+From October 23, 2023, until November 18, 2023, I stand as:
 - 1st place in Egypt,
  
-- 3rd place in the Middle East and Africa,
+- 3rd place in the Middle East and Africa (top 1%),
 
-- 40th place in the World (top 5%).
+- 57th place in the World (top 4%).
   
-![image](https://github.com/Yousuf-Omran/deepracer-for-cloud-Alyamaan619/assets/134161427/f3506a2d-471a-4933-989a-741059978bef)
+![image](https://github.com/Yousuf-Omran/deepracer-for-cloud-Alyamaan619/assets/134161427/0daa9674-58da-4e4d-aaaf-db8e9b77ea92)
 
 
 This race track will be closed in March 2024, so there is a lot of time to join the competition and upscale your skills in reinforcement learning...
